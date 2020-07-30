@@ -10,7 +10,7 @@ Although all ideas and proposals are definitely welcome I'll describe here a few
 
 * The core of the device is SimCom SIM7080G LTE-module which supports only NB-IoT and LTE-M network technologies. LTE-M will not be used since it does not give any value for this device. The selection is based on such cheap price, simplicity, low power consumption and very minimal need for external components. It also supports a large number of LTE-bands which is a big advantage comparing to similar NB-IoT modules in the current market.
 * The CPU will very probably be Atmel ATmega-series microcontroller. There are many reasons which are essential. Simplicity, cheap price, prevalence, easy programming, good development tools, a large number of experienced programmers, very small power consumption on small clock speed, small size and many, many others.
-* The screen should be clear and bright OLED-display due to readability in different circumstances and environments. Also power consumption is the key advantage.
+* The screen should be clear and bright OLED-display because of readability in different circumstances and environments. Also power consumption is the key advantage.
 
 The device can/will be about in same size than traditional pagers has usually been. Charging could be done with USB-C -cable. The antenna will be an internal PCB-antenna and luckily ready constructions/drawings are already available so there is no need to innovate this again, though.
 
