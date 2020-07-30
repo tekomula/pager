@@ -16,4 +16,4 @@ The device can/will be about in same size than traditional pagers has usually be
 
 Although it will be possible to send messages (SMS) to these devices from whatever mobile device there is still a plan for cloud-based services for organizations where is possible to build groups of pagers where to send an alarm or a message with one click from dispatcher. If talking about volunteer firemen everyone in the group will get the fire alarm and immediately click a button whether accepting or declining to participate. Hereby the dispatcher sees in real time who are arriving to the duty.
 
-Now we need YOUR help! If you feel you are familiar with technical prototyping, like to work around with Arduinos, KiCad schematics and PCB planning is in your hands, you like coding, you've full of ideas or whatever, JOIN US! :) Everybody are definitely welcome! :)
+Now we need YOUR help! If you feel you are familiar with prototyping, like to work around with Arduinos, KiCad schematics and PCB planning is in your hands, you like coding, you're full of ideas or whatever, JOIN US! :) Everybody are definitely welcome! :)
